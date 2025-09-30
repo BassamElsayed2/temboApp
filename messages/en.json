@@ -34,7 +34,7 @@
     "watch": "Watch",
     "mouse": "Mouse",
     "tablet": "Tablet",
-    "searchPlaceholder": "Search in Lapip Store...",
+    "searchPlaceholder": "Search in Timbo...",
     "signIn": "Sign In",
     "recentlyViewed": "Recently Viewed",
     "support": "Support",
@@ -243,8 +243,10 @@
     "appStore": "App Store",
     "getInOn": "Get in On",
     "googlePlay": "Google Play",
-    "allRightsReserved": "All rights reserved by ENS.",
-    "weAccept": "We Accept:"
+    "allRightsReserved": "Every Moment Easier",
+    "ENSLink":"Developed by",
+    "weAccept": "We Accept:",
+"note": "© {year}. Every Moment Easier - Developed by <developer>ENS</developer>"
   },
   "orderTracking": {
     "title": "Order Tracking",

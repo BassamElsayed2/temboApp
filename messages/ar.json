@@ -34,7 +34,7 @@
     "watch": "ساعة",
     "mouse": "فأرة",
     "tablet": "تابلت",
-    "searchPlaceholder": "إبحث في لبيب ستور...",
+    "searchPlaceholder": "إبحث في Timbo..",
     "signIn": "تسجيل الدخول",
     "recentlyViewed": "شوهد مؤخراً",
     "support": "الدعم",
@@ -243,8 +243,10 @@
     "appStore": "متجر التطبيقات",
     "getInOn": "احصل عليه من",
     "googlePlay": "جوجل بلاي",
-    "allRightsReserved": "جميع الحقوق محفوظة لشركة ENS.",
-    "weAccept": "نحن نقبل:"
+    "allRightsReserved": "كل لحظة أسهل",
+    "ENSLink":"تم التطوير بواسطة",
+    "weAccept": "نحن نقبل:",
+       "note": "© {year}. كل لحظة أسهل - تم التطوير بواسطة <developer>ENS</developer>"
   },
   "orderTracking": {
     "title": "تتبع الطلب",
